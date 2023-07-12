@@ -1,0 +1,14 @@
+.div-p {
+    color: rgb(252, 108, 133);
+    font-family: Georgia;
+}
+p{
+    font-size:  25px;
+    margin: 0px 15px;
+    font-family: Georgia;
+    text-align: justify;
+}
+hr {
+    color: black;
+    height: 20px;
+}
